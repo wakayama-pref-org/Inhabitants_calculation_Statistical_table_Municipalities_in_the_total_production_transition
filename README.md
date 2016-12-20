@@ -1,4 +1,4 @@
-# Inhabitants'_calculation_Statistical_table_Municipalities_in_the_total_production_transition
+# inhabitants_calculation_statistical_table_municipalities_in_the_total_production_transition
 　【和歌山県　市町村民経済計算です。】
 ◆市町村民経済計算とは
 県内各市町村の１年度間の経済活動を生産・分配の二面からとらえ、その経済規模や産業構造、所得水準などを 明らかにし、県内市町村の経済力を総合的、計量的に把握することを目的とするものです。
